@@ -6,6 +6,8 @@ date:   2016-10-14 15:58:56 +0100
 categories: Virtuoso SPARQL bug 
 ---
 
+TL;DR: Virtuoso has a [bug](https://github.com/openlink/virtuoso-opensource/issues/590) relating to SPARQL property paths with zero-occurrence patterns when they are used within named graphs where the name is supplied as a bound variable.
+
 This was a fun one to debug. 
 
 So, SPARQL is a query language that lets you define patterns to be matched against graphs of data expressed as RDF. Property paths are a super useful part of SPARQL that allow you define graph traversals in a very concise way. They are simple, powerful, and reminiscent of regular expressions.

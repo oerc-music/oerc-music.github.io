@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: OeRC Music blog
+title: {Onto,Techno,Musico}logies: Notes on Music Research @ Oxford e-Research Centre
 email: david.weigl@oerc.ox.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-    Technical blog of the OeRC Music and Digital Musicology research group. 
+    Technical blog on Music and Digital Musicology at the Oxford e-Research Centre
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://oerc-music.github.io" # the base hostname & protocol for your site, e.g. http://example.com twitter_username: musicog 
-twitter_username: musicog 
+twitter_username: OxfordeResearch 
 github_username:  oerc-music
 
 # Build settings
