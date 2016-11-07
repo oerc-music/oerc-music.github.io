@@ -14,10 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title:  "{Onto,Techno,Musico}logies"
-subtitle: "Musical notes from the [http://oerc.ox.ac.uk](University of Oxford e-Research Centre)"
 email: david.weigl@oerc.ox.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-    Technical blog on Music and Digital Musicology at the Oxford e-Research Centre
+    Musical notes from the University of Oxford e-Research Centre
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://oerc-music.github.io" # the base hostname & protocol for your site, e.g. http://example.com twitter_username: musicog 
 twitter_username: OxfordeResearch 
